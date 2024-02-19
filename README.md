@@ -1,320 +1,104 @@
+# Welcome 👋
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Document</title>
-    <style>
-      @import url('https://fonts.google.com/specimen/Lobster');
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
-      body {
-    background: #e95252;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #9acae2, #ee8c8c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #74c0e6, #ec5454); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    padding: 0;
-    margin: 0;
-    font-family: 'Lato', sans-serif;
-    color: #000;
-}
-.student-profile .card {
-    border-radius: 20px;
-}
+</br>
+</br>
+</br>
 
-.student-profile .card .card-header .profile_img {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    margin: 10px auto;
-    border: 10px solid #ccc;
-    border-radius: 50%;
-}
 
-.student-profile .card h3 {
-    font-size: 20px;
-    font-weight: 700;
-}
+# About ME 💬 :
 
-.student-profile .card p {
-    font-size: 16px;
-    color: #000;
-}
+### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-.student-profile .table th,
-.student-profile .table td {
-    font-size: 14px;
-    padding: 5px 10px;
-    color: #000;
-}
-    </style>
-  </head>
-</html><div class="student-profile py-4">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="card shadow-sm">
-            <div class="card-header bg-transparent text-center">
-              <img class="profile_img" src="https://image.shutterstock.com/image-vector/profile-picture-vector-260nw-404138245.jpg" alt="student dp">
-              <h3>SANTHOSH KUMAR</h3>
-            </div>
-            <div class="card-body">
-              <p class="mb-0"><strong class="pr-1">Student ID:</strong>71132101037</p>
-              <p class="mb-0"><strong class="pr-1">Year:</strong>1</p>
-              <p class="mb-0"><strong class="pr-1">Department:</strong>AD</p>
-              <p class="mb-0"><strong class="pr=1">Subject:</strong>XEBIA</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-8">
-          <div class="card shadow-sm">
-            <div class="card-header bg-transparent border-0">
-              <h3 class="mb-0"><i class="far fa-clone pr-1"></i>General Information</h3>
-            </div>
-            <div class="card-body pt-0">
-              <table class="table table-bordered">
-                <tr>
-                  <th width="30%">Roll</th>
-                  <td width="2%">:</td>
-                  <td>21AD037</td>
-                </tr>
-                <tr>
-                  <th width="30%">Academic Year </th>
-                  <td width="2%">:</td>
-                  <td>2021-2022</td>
-                </tr>
-                <tr>
-                    <th width="30%">Year of passing </th>
-                    <td width="2%">:</td>
-                    <td>2025</td>
-                  </tr>
-                <tr>
-                  <th width="30%">Gender</th>
-                  <td width="2%">:</td>
-                  <td>male</td>
-                </tr>
-                <tr>
-                  <th width="30%">Religion</th>
-                  <td width="2%">:</td>
-                  <td>Hindu</td>
-                </tr>
-                <tr>
-                  <th width="30%">blood</th>
-                  <td width="2%">:</td>
-                  <td>AB+</td>
-                </tr>  
-                <tr>
-                    <th width="30%">Age</th>
-                    <td width="2%">:</td>
-                    <td>18</td>
-                  </tr>
-                  <tr>
-                <tr>
-                    <th width="30%">State</th>
-                    <td width="2%">:</td>
-                    <td>Tamilnadu</td>
-                  </tr>
-                  <tr>
-                    <th width="30%">District</th>
-                    <td width="2%">:</td>
-                    <td>Tirupur</td>
-                  </tr>
-                  <tr>
-                    <th width="30%">Name of the school</th>
-                    <td width="2%">:</td>
-                    <td>SRKV</td>
-                  </tr>
-                  <tr>
-                    <th width="30%">cufoff mark</th>
-                    <td width="2%">:</td>
-                    <td>174.79</td>
-                  </tr>
-              </table>
-            </div>
-          </div>
-            <div style="height: 26px"></div>
-          <div class="card shadow-sm">
-            <div class="card-header bg-transparent border-0">
-              <h3 class="mb-0"><i class="far fa-clone pr-1"></i>personal skills</h3>
-            </div>
-            <div class="card-body pt-0">
-                <p>Gaming</p>
-                <p>hard worker</p>
-                <p>loyalty</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
- <b>
-   body {
-  background: #67B26F;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4ca2cd, #67B26F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  padding: 0;
-  margin: 0;
-  font-family: 'Lato', sans-serif;
-  color: #000;
-}</b>
+<img hight="400" width="500" alt="GIF" align="right" src="">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
 
 
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Document</title>
-    <style>
-      @import url('https://fonts.google.com/specimen/Lobster');
+<p align="center">
 
-      body {
-    background: #e95252;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #9acae2, #ee8c8c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #74c0e6, #ec5454); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    padding: 0;
-    margin: 0;
-    font-family: 'Lato', sans-serif;
-    color: #000;
-}
-.student-profile .card {
-    border-radius: 20px;
-}
-
-.student-profile .card .card-header .profile_img {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    margin: 10px auto;
-    border: 10px solid #ccc;
-    border-radius: 50%;
-}
-
-.student-profile .card h3 {
-    font-size: 20px;
-    font-weight: 700;
-}
-
-.student-profile .card p {
-    font-size: 16px;
-    color: #000;
-}
-
-.student-profile .table th,
-.student-profile .table td {
-    font-size: 14px;
-    padding: 5px 10px;
-    color: #000;
-}
-    </style>
-  </head>
-</html><div class="student-profile py-4">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="card shadow-sm">
-            <div class="card-header bg-transparent text-center">
-              <img class="profile_img" src="https://image.shutterstock.com/image-vector/profile-picture-vector-260nw-404138245.jpg" alt="student dp">
-              <h3>SANTHOSH KUMAR</h3>
-            </div>
-            <div class="card-body">
-              <p class="mb-0"><strong class="pr-1">Student ID:</strong>71132101037</p>
-              <p class="mb-0"><strong class="pr-1">Year:</strong>1</p>
-              <p class="mb-0"><strong class="pr-1">Department:</strong>AD</p>
-              <p class="mb-0"><strong class="pr=1">Subject:</strong>XEBIA</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-8">
-          <div class="card shadow-sm">
-            <div class="card-header bg-transparent border-0">
-              <h3 class="mb-0"><i class="far fa-clone pr-1"></i>General Information</h3>
-            </div>
-            <div class="card-body pt-0">
-              <table class="table table-bordered">
-                <tr>
-                  <th width="30%">Roll</th>
-                  <td width="2%">:</td>
-                  <td>21AD037</td>
-                </tr>
-                <tr>
-                  <th width="30%">Academic Year </th>
-                  <td width="2%">:</td>
-                  <td>2021-2022</td>
-                </tr>
-                <tr>
-                    <th width="30%">Year of passing </th>
-                    <td width="2%">:</td>
-                    <td>2025</td>
-                  </tr>
-                <tr>
-                  <th width="30%">Gender</th>
-                  <td width="2%">:</td>
-                  <td>male</td>
-                </tr>
-                <tr>
-                  <th width="30%">Religion</th>
-                  <td width="2%">:</td>
-                  <td>Hindu</td>
-                </tr>
-                <tr>
-                  <th width="30%">blood</th>
-                  <td width="2%">:</td>
-                  <td>AB+</td>
-                </tr>  
-                <tr>
-                    <th width="30%">Age</th>
-                    <td width="2%">:</td>
-                    <td>18</td>
-                  </tr>
-                  <tr>
-                <tr>
-                    <th width="30%">State</th>
-                    <td width="2%">:</td>
-                    <td>Tamilnadu</td>
-                  </tr>
-                  <tr>
-                    <th width="30%">District</th>
-                    <td width="2%">:</td>
-                    <td>Tirupur</td>
-                  </tr>
-                  <tr>
-                    <th width="30%">Name of the school</th>
-                    <td width="2%">:</td>
-                    <td>SRKV</td>
-                  </tr>
-                  <tr>
-                    <th width="30%">cufoff mark</th>
-                    <td width="2%">:</td>
-                    <td>174.79</td>
-                  </tr>
-              </table>
-            </div>
-          </div>
-            <div style="height: 26px"></div>
-          <div class="card shadow-sm">
-            <div class="card-header bg-transparent border-0">
-              <h3 class="mb-0"><i class="far fa-clone pr-1"></i>personal skills</h3>
-            </div>
-            <div class="card-body pt-0">
-                <p>Gaming</p>
-                <p>hard worker</p>
-                <p>loyalty</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
- <b>
-   body {
-  background: #67B26F;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4ca2cd, #67B26F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  padding: 0;
-  margin: 0;
-  font-family: 'Lato', sans-serif;
-  color: #000;
-}</b>
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
 
 
 
+# Contact Me :
+
+<p>
+ </br>
 
 
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:santhk25122003psk@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
