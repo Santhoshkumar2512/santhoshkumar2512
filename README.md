@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </div>
 
 </br>
