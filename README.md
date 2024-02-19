@@ -13,7 +13,7 @@
 
 ### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" align="center">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
