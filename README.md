@@ -12,7 +12,8 @@
 # About ME 💬 :
 
 ### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
-# My Portfolio💬 :(https://santhoshkumar2512.github.io/portfolio/)
+# My Portfolio💬 :
+(https://santhoshkumar2512.github.io/portfolio/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" align="center">
 
